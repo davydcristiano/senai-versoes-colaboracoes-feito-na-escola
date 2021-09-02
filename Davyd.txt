@@ -1,0 +1,24 @@
+ cd C:\Users\Front-End_4\Desktop\_git\senai-versoes-colaboracoes
+git init
+git config --global user.name "FE4-Davyd"
+git config --global user.email "davyd-davy@hotmail.com"
+git status
+dir
+dir /a
+git add versoes.txt
+git status
+git commit -m "Criei o meu arquivo versoes.txt"
+git log
+git status
+git add.
+git add .
+git commit -m "Escrevi pela 1§ vez no meu arquivo"
+git log
+git add .
+git log
+git remote add origin https://github.com/davydcristiano/senai-versoes-colaboracoes.git
+git push -u origin main
+git push -u origin master
+git log
+doskey /h
+doskey /h >Davyd.txt
